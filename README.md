@@ -6,3 +6,4 @@ busineesLogic.ts contains the CRUD operations related to fetching of data from j
 buttonoperations.ts constains functions which aids the presentation logic and are used for button operations
 
 tsconfig.json contains the configuration related to compiler options
+
